@@ -1,0 +1,24 @@
+{
+  "name": "git__test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mutumoto630:matz6435@github.com/mutumoto630/git__test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutumoto630/git__test/issues"
+  },
+  "homepage": "https://github.com/mutumoto630/git__test#readme"
+}
